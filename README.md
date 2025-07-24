@@ -24,7 +24,7 @@
 
 ## 📸 Preview
 
-![Screenshot](preview.jpg) <!-- Replace with actual screenshot or remove this line -->
+![Screenshot](images/preview.jpg) 
 
 ---
 
